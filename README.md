@@ -9,4 +9,4 @@ We analyse the quality of rice by calculating the average length/breadth ratio f
 ```
 
 ## Screenshots
-![Output](https://raw.githubusercontent.com/matahatiai/opencv_rice_quality_analyze/master/example.pngg)
+<img src="https://raw.githubusercontent.com/matahatiai/opencv_rice_quality_analyze/master/example.png" />
